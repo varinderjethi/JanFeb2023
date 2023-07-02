@@ -69,7 +69,8 @@ public class HandlingConfig {
 //		System.err.println("Search functionality test: Failed");
 //		}
 
-		
+		//------------------------------------------------------------------------------------------------------------------------
+	System.out.println("Changes Made Successfully.");
 		
 		
 		driver.close();
